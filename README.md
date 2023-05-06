@@ -11,7 +11,7 @@ In this project, I implemented Dijkstra's algorithm to solve the least cost path
 - value of the least cost.
 
 ### Outcome:
-After running the program, the following figure will be generated:
+After starting the program, the adjacency matrix and city coordinates will be read from the csv files. Then the application will randomly select two cities and use the Dijkstra algorithm to determine the shortest path. At the end, a map is generated.
 <div align="center">
     <img class="figure" width="850px" src="https://raw.githubusercontent.com/SzymonSiakala/Optimization-in-graph-problems/main/Figure.png">
 </div>
